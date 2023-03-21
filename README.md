@@ -8,6 +8,6 @@ There are two versions of the font now:
 
 ---
 
-[javascript demo](./example_js_8x16.html)
+[javascript demo](https://htmlpreview.github.io/?https://github.com/msafronov/perfect-dos-vga-437/blob/main/example_js_8x16.html)
  <br />
 (**8x16** font at **640x480** screen)
